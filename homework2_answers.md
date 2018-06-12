@@ -17,3 +17,9 @@ Part 3:
 //1. One would use the git branch [branch name] command to create a branch.
 //2. One would use the git checkout [branch name] command to switch to a different branch.
 //3. One would want to use a branch as opposed to the master in situations where one is creating and testing code and doesn't want to create possible code conflicts within the master.  A branch would be used for testing purposes.
+
+Part 4:
+
+//1. One would use git merge when working on a project where one was in control of the master and was dead certain the new code was problem free.  Or in a learning environment where the stakes are pretty low.
+A situation where a pull request would be best would be in a team work environment where multiple people are working on a project and a manager wanted to be able to look over pull submissions so that production code remained free of problems.
+//2. One would use the git push command to push changes to the remote repo.
