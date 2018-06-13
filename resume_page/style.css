@@ -1,17 +1,39 @@
 h1{
 	text-align: center;
 	font-family: 'Faster One';font-size: 48px;
+	text-transform: uppercase;
 
 }
 h3 {
 	color: red;
 }
-
+nav {
+	color: black;
+	margin: auto;
+	background-color: yellow;
+	letter-spacing: 10px;
+}
+ul {
+	text-align: center;
+}
 body {
 	text-align: center;
-	margin: 10px;
-
+	margin: auto;
+	border: solid;
+	border-width: 10px, 0px;
 }
 ol {
 	list-style: none;
+}
+img	{
+	border: solid;
+	border-width: 1px;
+}
+
+p {
+	text-align: center;
+	margin: auto;
+}
+.image1 {
+	border-radius: 50%;
 }
